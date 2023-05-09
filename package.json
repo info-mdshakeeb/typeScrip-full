@@ -1,0 +1,8 @@
+{
+  "name": "typeScript - full(p)",
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4"
+  }
+}

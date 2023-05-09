@@ -1,0 +1,1 @@
+# typeScript - full(p)
